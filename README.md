@@ -1,6 +1,6 @@
 # QuickMap-PythonScript
 
-QuickMap.py - Fast mapping straight from your OS to automate the Google Maps searching. 
+QuickMap.py - Fast mapping straight from your OS to automate the Google Maps searching process saving you keystrokes on your weekend getaway planning. 
 
 Menu Options:
 
